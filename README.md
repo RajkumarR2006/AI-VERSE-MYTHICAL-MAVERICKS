@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🤝 Contributors
 
-[Rajkumar R](https://github.com/RajkumarR2006) | Srishanth S | [Suman Maitreya M](https://github.com/Suman-Maitreya) | S Ajay Vikram 
+[Rajkumar R](https://github.com/RajkumarR2006) | [Srishanth S](https://github.com/Srishanth-2006) | [Suman Maitreya M](https://github.com/Suman-Maitreya) | [S Ajay Vikram](https://github.com/Ajayvikramhacker) 
 
 ---
 
