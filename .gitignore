@@ -1,0 +1,41 @@
+# --- Dependencies ---
+node_modules/
+.pnp
+.pnp.js
+
+# --- Next.js Build Output ---
+.next/
+out/
+build/
+dist/
+
+# --- System Junk ---
+.DS_Store
+Thumbs.db
+cf.exe
+*.exe
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+data/index/
+
+# --- Secrets ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+api_keys.txt
+
+*.csv
+*.json
+gema-rag/data/
+
+# Ignore huge data files
+*.csv
+*.json
+gema-rag/data/raw/
